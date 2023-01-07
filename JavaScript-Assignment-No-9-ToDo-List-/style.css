@@ -1,0 +1,14 @@
+.custom_margin{
+    border: 2px dotted black;
+}
+.remove{
+    color: red;
+    text-transform: none;
+    text-decoration: none;
+}
+.remove:hover{
+    color: rgb(168, 12, 12);
+}
+.fs{
+    font-size: 2px;
+}
